@@ -1,0 +1,10 @@
+dataset,scc_count,dfs_visits,edges_visited,kahn_push,kahn_pop,relaxations,elapsed_ns
+large_1.json,24,24,30,30,24,60,995100
+large_2.json,30,30,84,84,30,168,81100
+large_3.json,8,40,79,14,8,16,103700
+medium_1.json,7,12,12,5,7,10,48900
+medium_2.json,10,15,17,11,10,22,72300
+medium_3.json,1,17,17,0,1,0,63600
+small_1.json,4,6,6,3,4,6,36800
+small_2.json,7,7,6,6,7,12,59400
+small_3.json,4,8,7,1,4,1,91400
