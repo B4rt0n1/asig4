@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "q1"
+    },
+    {
+      "id": "q2"
+    },
+    {
+      "id": "q3"
+    },
+    {
+      "id": "q4"
+    },
+    {
+      "id": "q5"
+    },
+    {
+      "id": "q6"
+    },
+    {
+      "id": "q7"
+    },
+    {
+      "id": "q8"
+    },
+    {
+      "id": "q9"
+    },
+    {
+      "id": "q10"
+    },
+    {
+      "id": "q11"
+    },
+    {
+      "id": "q12"
+    },
+    {
+      "id": "q13"
+    },
+    {
+      "id": "q14"
+    },
+    {
+      "id": "q15"
+    },
+    {
+      "id": "q16"
+    },
+    {
+      "id": "q17"
+    }
+  ],
+  "edges": [
+    {
+      "from": "q1",
+      "to": "q2",
+      "weight": 1
+    },
+    {
+      "from": "q2",
+      "to": "q3",
+      "weight": 1
+    },
+    {
+      "from": "q3",
+      "to": "q4",
+      "weight": 1
+    },
+    {
+      "from": "q4",
+      "to": "q5",
+      "weight": 1
+    },
+    {
+      "from": "q5",
+      "to": "q6",
+      "weight": 1
+    },
+    {
+      "from": "q6",
+      "to": "q7",
+      "weight": 1
+    },
+    {
+      "from": "q7",
+      "to": "q8",
+      "weight": 1
+    },
+    {
+      "from": "q8",
+      "to": "q9",
+      "weight": 1
+    },
+    {
+      "from": "q9",
+      "to": "q10",
+      "weight": 1
+    },
+    {
+      "from": "q10",
+      "to": "q11",
+      "weight": 1
+    },
+    {
+      "from": "q11",
+      "to": "q12",
+      "weight": 1
+    },
+    {
+      "from": "q12",
+      "to": "q13",
+      "weight": 1
+    },
+    {
+      "from": "q13",
+      "to": "q14",
+      "weight": 1
+    },
+    {
+      "from": "q14",
+      "to": "q15",
+      "weight": 1
+    },
+    {
+      "from": "q15",
+      "to": "q16",
+      "weight": 1
+    },
+    {
+      "from": "q16",
+      "to": "q17",
+      "weight": 1
+    },
+    {
+      "from": "q17",
+      "to": "q1",
+      "weight": 1
+    },
+    {
+      "from": "q3",
+      "to": "q20",
+      "weight": 2
+    }
+  ]
+}

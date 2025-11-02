@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "id": "m1"
+    },
+    {
+      "id": "m2"
+    },
+    {
+      "id": "m3"
+    },
+    {
+      "id": "m4"
+    },
+    {
+      "id": "m5"
+    },
+    {
+      "id": "m6"
+    },
+    {
+      "id": "m7"
+    },
+    {
+      "id": "m8"
+    },
+    {
+      "id": "m9"
+    },
+    {
+      "id": "m10"
+    },
+    {
+      "id": "m11"
+    },
+    {
+      "id": "m12"
+    }
+  ],
+  "edges": [
+    {
+      "from": "m1",
+      "to": "m2",
+      "weight": 1
+    },
+    {
+      "from": "m2",
+      "to": "m3",
+      "weight": 1
+    },
+    {
+      "from": "m3",
+      "to": "m1",
+      "weight": 1
+    },
+    {
+      "from": "m3",
+      "to": "m4",
+      "weight": 2
+    },
+    {
+      "from": "m4",
+      "to": "m5",
+      "weight": 1
+    },
+    {
+      "from": "m5",
+      "to": "m6",
+      "weight": 3
+    },
+    {
+      "from": "m6",
+      "to": "m7",
+      "weight": 1
+    },
+    {
+      "from": "m7",
+      "to": "m8",
+      "weight": 1
+    },
+    {
+      "from": "m8",
+      "to": "m5",
+      "weight": 1
+    },
+    {
+      "from": "m2",
+      "to": "m9",
+      "weight": 4
+    },
+    {
+      "from": "m9",
+      "to": "m10",
+      "weight": 1
+    },
+    {
+      "from": "m10",
+      "to": "m11",
+      "weight": 2
+    }
+  ]
+}

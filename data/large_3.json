@@ -1,0 +1,521 @@
+{
+  "nodes": [
+    {
+      "id": "H1"
+    },
+    {
+      "id": "H2"
+    },
+    {
+      "id": "H3"
+    },
+    {
+      "id": "H4"
+    },
+    {
+      "id": "H5"
+    },
+    {
+      "id": "H6"
+    },
+    {
+      "id": "H7"
+    },
+    {
+      "id": "H8"
+    },
+    {
+      "id": "H9"
+    },
+    {
+      "id": "H10"
+    },
+    {
+      "id": "H11"
+    },
+    {
+      "id": "H12"
+    },
+    {
+      "id": "H13"
+    },
+    {
+      "id": "H14"
+    },
+    {
+      "id": "H15"
+    },
+    {
+      "id": "H16"
+    },
+    {
+      "id": "H17"
+    },
+    {
+      "id": "H18"
+    },
+    {
+      "id": "H19"
+    },
+    {
+      "id": "H20"
+    },
+    {
+      "id": "H21"
+    },
+    {
+      "id": "H22"
+    },
+    {
+      "id": "H23"
+    },
+    {
+      "id": "H24"
+    },
+    {
+      "id": "H25"
+    },
+    {
+      "id": "H26"
+    },
+    {
+      "id": "H27"
+    },
+    {
+      "id": "H28"
+    },
+    {
+      "id": "H29"
+    },
+    {
+      "id": "H30"
+    },
+    {
+      "id": "H31"
+    },
+    {
+      "id": "H32"
+    },
+    {
+      "id": "H33"
+    },
+    {
+      "id": "H34"
+    },
+    {
+      "id": "H35"
+    },
+    {
+      "id": "H36"
+    },
+    {
+      "id": "H37"
+    },
+    {
+      "id": "H38"
+    },
+    {
+      "id": "H39"
+    },
+    {
+      "id": "H40"
+    }
+  ],
+  "edges": [
+    {
+      "from": "H1",
+      "to": "H39",
+      "weight": 3
+    },
+    {
+      "from": "H1",
+      "to": "H12",
+      "weight": 8
+    },
+    {
+      "from": "H2",
+      "to": "H17",
+      "weight": 6
+    },
+    {
+      "from": "H2",
+      "to": "H18",
+      "weight": 7
+    },
+    {
+      "from": "H3",
+      "to": "H5",
+      "weight": 9
+    },
+    {
+      "from": "H3",
+      "to": "H38",
+      "weight": 3
+    },
+    {
+      "from": "H4",
+      "to": "H17",
+      "weight": 9
+    },
+    {
+      "from": "H4",
+      "to": "H19",
+      "weight": 8
+    },
+    {
+      "from": "H5",
+      "to": "H22",
+      "weight": 5
+    },
+    {
+      "from": "H5",
+      "to": "H13",
+      "weight": 10
+    },
+    {
+      "from": "H6",
+      "to": "H4",
+      "weight": 6
+    },
+    {
+      "from": "H6",
+      "to": "H32",
+      "weight": 1
+    },
+    {
+      "from": "H7",
+      "to": "H30",
+      "weight": 10
+    },
+    {
+      "from": "H7",
+      "to": "H12",
+      "weight": 7
+    },
+    {
+      "from": "H8",
+      "to": "H20",
+      "weight": 5
+    },
+    {
+      "from": "H8",
+      "to": "H38",
+      "weight": 6
+    },
+    {
+      "from": "H9",
+      "to": "H2",
+      "weight": 1
+    },
+    {
+      "from": "H9",
+      "to": "H23",
+      "weight": 4
+    },
+    {
+      "from": "H10",
+      "to": "H4",
+      "weight": 8
+    },
+    {
+      "from": "H10",
+      "to": "H27",
+      "weight": 8
+    },
+    {
+      "from": "H11",
+      "to": "H14",
+      "weight": 1
+    },
+    {
+      "from": "H11",
+      "to": "H1",
+      "weight": 10
+    },
+    {
+      "from": "H12",
+      "to": "H23",
+      "weight": 1
+    },
+    {
+      "from": "H12",
+      "to": "H30",
+      "weight": 6
+    },
+    {
+      "from": "H13",
+      "to": "H15",
+      "weight": 7
+    },
+    {
+      "from": "H14",
+      "to": "H22",
+      "weight": 9
+    },
+    {
+      "from": "H14",
+      "to": "H39",
+      "weight": 3
+    },
+    {
+      "from": "H15",
+      "to": "H2",
+      "weight": 10
+    },
+    {
+      "from": "H15",
+      "to": "H2",
+      "weight": 4
+    },
+    {
+      "from": "H16",
+      "to": "H2",
+      "weight": 3
+    },
+    {
+      "from": "H16",
+      "to": "H12",
+      "weight": 8
+    },
+    {
+      "from": "H17",
+      "to": "H35",
+      "weight": 1
+    },
+    {
+      "from": "H17",
+      "to": "H20",
+      "weight": 2
+    },
+    {
+      "from": "H18",
+      "to": "H24",
+      "weight": 6
+    },
+    {
+      "from": "H18",
+      "to": "H19",
+      "weight": 8
+    },
+    {
+      "from": "H19",
+      "to": "H38",
+      "weight": 5
+    },
+    {
+      "from": "H19",
+      "to": "H31",
+      "weight": 10
+    },
+    {
+      "from": "H20",
+      "to": "H9",
+      "weight": 5
+    },
+    {
+      "from": "H20",
+      "to": "H29",
+      "weight": 9
+    },
+    {
+      "from": "H21",
+      "to": "H9",
+      "weight": 7
+    },
+    {
+      "from": "H21",
+      "to": "H5",
+      "weight": 1
+    },
+    {
+      "from": "H22",
+      "to": "H13",
+      "weight": 7
+    },
+    {
+      "from": "H22",
+      "to": "H37",
+      "weight": 6
+    },
+    {
+      "from": "H23",
+      "to": "H26",
+      "weight": 9
+    },
+    {
+      "from": "H23",
+      "to": "H10",
+      "weight": 3
+    },
+    {
+      "from": "H24",
+      "to": "H13",
+      "weight": 8
+    },
+    {
+      "from": "H24",
+      "to": "H3",
+      "weight": 1
+    },
+    {
+      "from": "H25",
+      "to": "H17",
+      "weight": 4
+    },
+    {
+      "from": "H25",
+      "to": "H19",
+      "weight": 4
+    },
+    {
+      "from": "H26",
+      "to": "H37",
+      "weight": 4
+    },
+    {
+      "from": "H26",
+      "to": "H30",
+      "weight": 6
+    },
+    {
+      "from": "H27",
+      "to": "H1",
+      "weight": 8
+    },
+    {
+      "from": "H27",
+      "to": "H36",
+      "weight": 5
+    },
+    {
+      "from": "H28",
+      "to": "H33",
+      "weight": 4
+    },
+    {
+      "from": "H28",
+      "to": "H39",
+      "weight": 6
+    },
+    {
+      "from": "H29",
+      "to": "H8",
+      "weight": 3
+    },
+    {
+      "from": "H29",
+      "to": "H10",
+      "weight": 4
+    },
+    {
+      "from": "H30",
+      "to": "H3",
+      "weight": 10
+    },
+    {
+      "from": "H30",
+      "to": "H31",
+      "weight": 5
+    },
+    {
+      "from": "H31",
+      "to": "H23",
+      "weight": 4
+    },
+    {
+      "from": "H31",
+      "to": "H37",
+      "weight": 4
+    },
+    {
+      "from": "H32",
+      "to": "H8",
+      "weight": 6
+    },
+    {
+      "from": "H32",
+      "to": "H16",
+      "weight": 5
+    },
+    {
+      "from": "H33",
+      "to": "H18",
+      "weight": 6
+    },
+    {
+      "from": "H33",
+      "to": "H30",
+      "weight": 5
+    },
+    {
+      "from": "H34",
+      "to": "H28",
+      "weight": 8
+    },
+    {
+      "from": "H34",
+      "to": "H28",
+      "weight": 7
+    },
+    {
+      "from": "H35",
+      "to": "H33",
+      "weight": 7
+    },
+    {
+      "from": "H35",
+      "to": "H32",
+      "weight": 7
+    },
+    {
+      "from": "H36",
+      "to": "H20",
+      "weight": 1
+    },
+    {
+      "from": "H36",
+      "to": "H11",
+      "weight": 5
+    },
+    {
+      "from": "H37",
+      "to": "H14",
+      "weight": 1
+    },
+    {
+      "from": "H37",
+      "to": "H32",
+      "weight": 7
+    },
+    {
+      "from": "H38",
+      "to": "H12",
+      "weight": 8
+    },
+    {
+      "from": "H38",
+      "to": "H9",
+      "weight": 4
+    },
+    {
+      "from": "H39",
+      "to": "H29",
+      "weight": 7
+    },
+    {
+      "from": "H39",
+      "to": "H18",
+      "weight": 9
+    },
+    {
+      "from": "H40",
+      "to": "H30",
+      "weight": 1
+    },
+    {
+      "from": "H40",
+      "to": "H18",
+      "weight": 4
+    }
+  ]
+}
